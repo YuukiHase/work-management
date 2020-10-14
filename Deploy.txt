@@ -1,0 +1,12 @@
+﻿Cpanel Username: freev_24095768
+Cpanel Password: Haukute
+Your URL: http://work-management.freevnn.com
+FTP Server : ftp.freevnn.com
+FTP Login : freev_24095768
+FTP Password : Haukute
+MySQL Database Name: Bạn sẽ tạo trong Cpanel
+MySQL Username : freev_24095768
+MySQL Password : Haukute
+MySQL Server: Bạn sẽ nhìn thấy trong Cpanel
+
+Cpanel URL: http://cpanel.freevnn.com
